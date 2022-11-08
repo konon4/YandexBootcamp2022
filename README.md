@@ -2,12 +2,6 @@
 
 ![Practicum Bootcamp](pb.png "Practicum Bootcamp")
 
-Repository containing portfolio of data science projects completed by Ivan Kononov during the training courses at Yandex.Praktikum
-Presented in the form of iPython Notebooks and readme markdown files. 
-
-Certificate of completion the course (English version) 🎓 
-Certificate of completion the course (Russian version) 🎓
-
 ## 1_yandex_music_hypothesis_testing.ipynb
 
 ### Тестирование гипотез
